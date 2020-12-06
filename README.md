@@ -1,5 +1,5 @@
 ### Hello World! 👋
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=KuratasZ&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="cent" src="https://github-readme-stats.vercel.app/api?username=KuratasZ&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 <!--
 **KuratasZ/KuratasZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
