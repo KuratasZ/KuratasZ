@@ -1,5 +1,7 @@
 ### Hi there 👋
+### GitHub Stats
 
+<img src="https://github-readme-stats.vercel.app/api?username=KuratasZ&hide_title=true&show_icons=true&icon_color=007aff&text_color=333&bg_color=fff" />
 <!--
 **KuratasZ/KuratasZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
